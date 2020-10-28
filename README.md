@@ -6,7 +6,7 @@
 
 ## Description
 
-_On this website I talk about my class and what I'm learning in it on **My first web page**. I list my favorite people, websites, and ice cream flavors in **My favorite things**._
+_I talk about my class and what I'm learning in it on **My first web page**. I list my favorite people, websites, and ice cream flavors in **My favorite things**._
 
 ## Setup/Installation Requirements
 
