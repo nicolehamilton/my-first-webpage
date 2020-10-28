@@ -22,6 +22,5 @@ _Reach out to me at nicolemarahamilton@gmail.com if you have any questions or ne
 
 * VSCode
 * Terminal
-* Chrome
 
 Copyright (c) 2020 **_Nicole Hamilton_**
